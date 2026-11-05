@@ -24,3 +24,5 @@
 4. 
 - Un ARTICLE possede plusieur TAG .
 - Un TAG est possede plusieur ARTICLE .
+
+...
