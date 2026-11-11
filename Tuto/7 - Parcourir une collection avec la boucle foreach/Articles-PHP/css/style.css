@@ -4,7 +4,9 @@
    Couleurs brutes sans variables natives, styles de base
 ========================================================= */
 
+
 /* 1. TYPOGRAPHIE & BASE GLOBALE */
+
 body {
     margin: 0;
     color: #1f2937;
@@ -29,14 +31,18 @@ a {
     padding: 0 20px;
 }
 
+
 /* 2. EN-TÊTE & NAVIGATION */
-.en-tete-site, .en-tete {
+
+.en-tete-site,
+.en-tete {
     background-color: #ffffff;
     border-bottom: 1px solid #e5e7eb;
     padding: 16px 0;
 }
 
-.barre-navigation, .navigation {
+.barre-navigation,
+.navigation {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -72,7 +78,9 @@ a {
     color: #2673e8;
 }
 
+
 /* 3. BANNIÈRE D'ACCUEIL (HERO) */
+
 .banniere-accueil {
     background-color: #ffffff;
     padding: 64px 20px;
@@ -103,7 +111,9 @@ a {
     justify-content: center;
 }
 
+
 /* 4. BOUTONS */
+
 .bouton-principal {
     display: inline-block;
     padding: 10px 20px;
@@ -123,7 +133,9 @@ a {
     font-weight: 600;
 }
 
+
 /* 5. ARTICLES & GRILLE D'ACCUEIL */
+
 .section-articles {
     padding: 48px 0;
 }
@@ -188,7 +200,9 @@ a {
     gap: 24px;
 }
 
+
 /* 6. CARTE D'ARTICLE */
+
 .carte-article {
     background-color: #ffffff;
     border: 1px solid #e5e7eb;
@@ -202,7 +216,8 @@ a {
     object-fit: cover;
 }
 
-.etiquette-categorie, .badge-categorie {
+.etiquette-categorie,
+.badge-categorie {
     display: inline-block;
     padding: 4px 10px;
     border-radius: 9999px;
@@ -238,7 +253,9 @@ a {
     padding-top: 12px;
 }
 
+
 /* 7. PAGE DE DÉTAIL D'ARTICLE */
+
 .entete-article-detail {
     text-align: center;
     padding: 48px 0 24px;
@@ -289,7 +306,9 @@ a {
     margin: 32px auto 0;
 }
 
+
 /* 8. PAGE CATÉGORIES & À PROPOS */
+
 .en-tete-categorie {
     margin-bottom: 32px;
 }
@@ -325,7 +344,9 @@ a {
     color: #1f2937;
 }
 
+
 /* 9. PIED DE PAGE */
+
 .pied-de-page {
     background-color: #ffffff;
     border-top: 1px solid #e5e7eb;
