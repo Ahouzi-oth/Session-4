@@ -14,5 +14,4 @@ $B=30;
 echo "la valeur de A :".$A."<br>";
 echo "la valeur de A :".$B."<br>";
 echo "la somme de A et B est".$A+$B ."<br>";
-
 echo "le produit de A et B est".$A*$B ."<br>";
