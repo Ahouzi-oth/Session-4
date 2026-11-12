@@ -2,7 +2,7 @@
 echo "exercice <br>";
 
 $name = "mouhamed";
-$age = '23';
+$age = 23;
 
 echo "je m'appelle" . $name . "j'ai ". $age . "ans";
 
