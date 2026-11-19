@@ -62,7 +62,7 @@ $taches = [
         'description' => 'Tester tous les cas (terminée et non términée) et corriger le style.',
         'date_limite' => '2026-11-24',
         'priorite' => 'Moyenne',
-        'terminee' => true
+        'terminee' => false  
     ],
    
           
